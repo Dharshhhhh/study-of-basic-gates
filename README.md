@@ -76,8 +76,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![1 o](https://github.com/user-attachments/assets/d10f0b85-2252-4ef2-b757-8aab2ce138a9)
 
 **RTL**
-
+![1 ro](https://github.com/user-attachments/assets/eaf9ec40-39a8-4319-a0ce-f92852d7048f)
 
 **Result:**
-Thus the basic logic gates are studied and the ttruth tables are verified
+Thus the basic logic gates are studied and the truth tables are verified
 
