@@ -85,12 +85,11 @@ assign c[6]= ~ a;
 endmodule
 ```
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 ```
  Developed by:Dharshini R
  RegisterNumber: 212224220023
  ```
- 
+Program for logic gates and verify its truth table in quartus using Verilog programming
 **Logic symbol & Truthtable**
 ![1 1](https://github.com/user-attachments/assets/f1882a5a-ca54-441a-8c48-4b20e0a6ec7b)
 ![1 2](https://github.com/user-attachments/assets/88a49771-ff87-4a38-892f-f8f61a996d0a)
